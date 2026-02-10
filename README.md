@@ -1,6 +1,6 @@
 ![Baton Logo](./docs/images/baton-logo.png)
 
-# `baton-manhattan` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-manhattan.svg)](https://pkg.go.dev/github.com/conductorone/baton-manhattan) ![main ci](https://github.com/conductorone/baton-manhattan/actions/workflows/main.yaml/badge.svg)
+# `baton-manhattan` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-manhattan.svg)](https://pkg.go.dev/github.com/conductorone/baton-manhattan) ![ci](https://github.com/conductorone/baton-manhattan/actions/workflows/ci.yaml/badge.svg)
 
 `baton-manhattan` is a connector for built using the [Baton SDK](https://github.com/conductorone/baton-sdk).
 
